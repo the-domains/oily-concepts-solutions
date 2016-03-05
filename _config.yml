@@ -1,14 +1,26 @@
-layout_spectrum: 0.933584
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.508772
-  lightness: 0.5012531
+  saturation: 1
   brandStrength: 0.6071429
+  lightness: 1
   brandColors:
     - '#0F150E'
     - '#99BD91'
     - '#415C39'
     - '#C6BD17'
     - '#C8C564'
-  rhythmicContrast: 0.7825814
+  rhythmicContrast: 1
 typography_spectrum: 0.3621554
+layout_spectrum: 0.933584
 name: Oily Concepts Solutions
