@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Oily Concepts Solutions]]></title>
         <description><![CDATA[Oily Concepts Solutions]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/oily-concepts-solutions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 21:46:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 22:02:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/oily-concepts-solutions/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2bf37ff-8ada-4814-b218-4ca8dd3e514a.png">]]></description>
-            <link>undefined9bd576a2-35ea-4d22-a2a6-e0b86b343d72/index.html</link>
+            <link>https://thegrid.ai/oily-concepts-solutions/9bd576a2-35ea-4d22-a2a6-e0b86b343d72/index.html</link>
             <guid isPermaLink="false">9bd576a2-35ea-4d22-a2a6-e0b86b343d72</guid>
             <pubDate>Sun, 06 Mar 2016 21:43:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a6bd51e-579e-4ea1-b151-999c11584ea2.jpg">]]></description>
+            <link>https://thegrid.ai/oily-concepts-solutions/49585e9d-0413-44f5-bb7a-28808a79796b/index.html</link>
+            <guid isPermaLink="false">49585e9d-0413-44f5-bb7a-28808a79796b</guid>
+            <pubDate>Sun, 06 Mar 2016 22:02:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
