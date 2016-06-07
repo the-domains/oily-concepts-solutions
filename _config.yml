@@ -1,41 +1,41 @@
-name: Oily Concepts Solutions
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.3621554
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+layout_spectrum: 1
 title: Natural Solutions For Better Living
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
 color:
+  saturation: 0.625
+  brandStrength: 0.5
+  rhythmicContrast: 0.75
   brandColors:
     - '#0F150E'
     - '#99BD91'
     - '#415C39'
     - '#C6BD17'
     - '#C8C564'
-  brandStrength: 0.5
   lightness: 0.625
-  saturation: 0.625
-  rhythmicContrast: 0.75
 purpose: []
+favicon: null
+name: Oily Concepts Solutions
+typography_spectrum: 0.3621554
